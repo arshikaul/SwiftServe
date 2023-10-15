@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320158768652",
+    "project_id": "swiftserve-c8cc0",
+    "storage_bucket": "swiftserve-c8cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320158768652:android:9a6eb5e9403c0a58b15829",
+        "android_client_info": {
+          "package_name": "com.company.swiftserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUe6RS6UpmnblIDfrp9f1s79FPfVhHnbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320158768652:android:c853a5888d378d48b15829",
+        "android_client_info": {
+          "package_name": "com.example.swiftserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUe6RS6UpmnblIDfrp9f1s79FPfVhHnbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
